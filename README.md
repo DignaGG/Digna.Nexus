@@ -1,6 +1,6 @@
 # Digna.Nexus
 ![C#](https://img.shields.io/badge/csharp-C%23-blue)
-![.NET](https://img.shields.io/badge/.NET-4.8-purple)
+![.NET](https://img.shields.io/badge/.NET-Framework-4.8-purple)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
