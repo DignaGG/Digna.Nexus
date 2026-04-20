@@ -33,7 +33,7 @@ Digna.Nexus is engineered with a **"Structure-First"** mindset, adhering to rigo
 ```bash
    git clone https://github.com/DignaGG/Digna.Nexus.git
 ```
-2. Open `Digna.Nexus.slnx` in Visual Studio 2022.
+2. Open `Digna.Nexus.slnx` in Visual Studio 2026.
 3. Restore NuGet packages (Newtonsoft.Json 13.0.4).
 4. Build and run (`F5`).
 
