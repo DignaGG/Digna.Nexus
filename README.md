@@ -28,6 +28,10 @@ Digna.Nexus is engineered with a **"Structure-First"** mindset, adhering to rigo
 - [x] `SettingsForm`: Application preferences dialog with auto-save toggle.
 - [x] `AppSettings`: Unified path management and data folder initialization.
 
+## 📸 Stable Preview
+![Sample Output](/images/0.png)
+![Sample Output](/images/1.png)
+
 ## 💻 Installation & Usage
 1. Clone the repository:
 ```bash
