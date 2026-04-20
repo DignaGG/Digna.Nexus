@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages (restore edilebilir, repoya girmemeli)
+packages/
+*.nupkg
+
+# Signing key (GÜVENLİK - kesinlikle repoya girmesin)
+*.pfx
+
+# Runtime data (kullanıcıya özel, repoya girmemeli)
+data/
+
+# Publish output
+publish/
